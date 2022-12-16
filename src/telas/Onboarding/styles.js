@@ -15,12 +15,13 @@ export default StyleSheet.create({
   },
   carrosselArea: {
     height: 140,
-    marginBottom: -30,
+    marginBottom: -100,
     paddingHorizontal: 20,
   },
   medicaImg: {
     width: 360,
     height: 290,
+    top:60
   },
   infoArea: {
     width: '100%',
